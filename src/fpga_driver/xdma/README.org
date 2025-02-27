@@ -1,5 +1,0 @@
-#+title: xdma
-
-x86 host driver for xdma
-
-- upstream: https://xilinx.github.io/dma_ip_drivers

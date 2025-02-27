@@ -31,15 +31,6 @@
 [submodule "src/kvmtool/kvmtool-cca"]
 	path = src/kvmtool/kvmtool
 	url = https://github.com/sectrs-acai/acai-kvmtool-cca.git
-[submodule "src/gdev"]
-	path = src/gpu_driver/gdev-guest
-	url = https://github.com/sectrs-acai/acai-gdev.git
-[submodule "src/gpu/gdev-host"]
-	path = src/gpu_driver/gdev-host
-	url = https://github.com/sectrs-acai/acai-gdev.git
-[submodule "src/gpu/rodina-cudadrv"]
-	path = src/gpu_driver/rodinia-bench
-	url = https://github.com/sectrs-acai/acai-rodinia.git
 [submodule "src/encrypted-cuda"]
 	path = src/encrypted-cuda
 	url = https://github.com/sectrs-acai/acai-encrypted-cuda.git

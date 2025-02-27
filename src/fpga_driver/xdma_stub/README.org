@@ -1,3 +1,0 @@
-#+title: xdma_stub
-
-aarch64 stub driver for xdma
