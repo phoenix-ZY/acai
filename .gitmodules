@@ -10,9 +10,6 @@
 [submodule "ext/pteditor"]
 	path = ext/pteditor
 	url = https://github.com/sectrs-acai/acai-pteditor.git
-[submodule "src/linux-host"]
-	path = src/linux-host
-	url = https://github.com/sectrs-acai/acai-kernel.git
 [submodule "src/linux-cca-guest"]
 	path = src/linux-cca-guest
 	url = https://github.com/sectrs-acai/acai-kernel.git
